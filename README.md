@@ -66,13 +66,17 @@ https://drive.google.com/file/d/11LcfingubdZMeO1gTNcBALtS8diKArXK/view?usp=shari
 #### DevOps-Maven-GitHub-Jenkins-4:
 https://drive.google.com/file/d/164EWgUtQMB8PHqqb5i1L2V3LTMioD7JP/view?usp=sharing
 
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
+
+
 # If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-7036821818 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
+
 
 ### We will share the videos for all the phases, please go thru the below link to know the complete plan.
 
 https://docs.google.com/spreadsheets/d/1PsAFUm1-oY48n-KbCAPfUa-f9n2s6P49LLmAOCjpn-c/edit?usp=sharing
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
 
 Submit your issues (feedback/questions/concerns):
 
