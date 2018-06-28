@@ -1,6 +1,6 @@
 # Phase-1-Discussions
 
-Sample pipeline: (Just a conceptual CI/CD process to make understand the beginner, we will implement this in Phase-5 with an simple java Web project)
+Sample pipeline: (The below image is just a conceptual CI/CD process to make understand the beginner, we will implement this in Phase-5 with an simple java Web project)
 
 ![image](https://user-images.githubusercontent.com/24622526/42048000-86bfc740-7b1f-11e8-9086-95fd5748b3fb.png)
 
