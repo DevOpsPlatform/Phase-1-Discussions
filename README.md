@@ -66,7 +66,7 @@ https://drive.google.com/file/d/11LcfingubdZMeO1gTNcBALtS8diKArXK/view?usp=shari
 #### DevOps-Maven-GitHub-Jenkins-4:
 https://drive.google.com/file/d/164EWgUtQMB8PHqqb5i1L2V3LTMioD7JP/view?usp=sharing
 
-# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-70368261818 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
+# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-7036821818 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
 
 ### We will share the videos for all the phases, please go thru the below link to know the complete plan.
 
