@@ -63,3 +63,5 @@ https://drive.google.com/file/d/11LcfingubdZMeO1gTNcBALtS8diKArXK/view?usp=shari
 https://drive.google.com/file/d/164EWgUtQMB8PHqqb5i1L2V3LTMioD7JP/view?usp=sharing
 
 # If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-9032440040
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Job Seekers, please don't pay`
