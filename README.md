@@ -1,5 +1,9 @@
 # Phase-1-Discussions
 
+Sample pipeline: (Just a conceptual CI/CD process to make understand the beginner, we will implement this in Phase-5 with an simple java Web project)
+
+![image](https://user-images.githubusercontent.com/24622526/42048000-86bfc740-7b1f-11e8-9086-95fd5748b3fb.png)
+
 #### Demos:
 
 https://drive.google.com/file/d/1S3VDRAqaJf37lN0-7nh6r9ETo8W57kpn/view?usp=sharing
@@ -62,9 +66,10 @@ https://drive.google.com/file/d/11LcfingubdZMeO1gTNcBALtS8diKArXK/view?usp=shari
 #### DevOps-Maven-GitHub-Jenkins-4:
 https://drive.google.com/file/d/164EWgUtQMB8PHqqb5i1L2V3LTMioD7JP/view?usp=sharing
 
-# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-9032440040
-### We will share the viodes for all the phases, please go thru the below link to know the plan.
+# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-70368261818 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
 
+### We will share the videos for all the phases, please go thru the below link to know the complete plan.
 
+https://docs.google.com/spreadsheets/d/1PsAFUm1-oY48n-KbCAPfUa-f9n2s6P49LLmAOCjpn-c/edit?usp=sharing
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
