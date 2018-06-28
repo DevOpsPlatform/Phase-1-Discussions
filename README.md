@@ -27,29 +27,8 @@ https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=shari
 #### Maven-Day1:
 https://drive.google.com/file/d/1swpc8Vmm05WX-mtgTN2wXuZzncLtsgEC/view?usp=sharing
 
-#### Maven-Day2:
-https://drive.google.com/file/d/1Ospyiwq-ZZcoD2eEVo087empVQZax11e/view?usp=sharing
-
-#### Maven-Day3:
-https://drive.google.com/file/d/1lBBYJbi8ktqRVxJFKUaoTLY9-D63vtSz/view?usp=sharing
-
 #### Jenkins-Day1:
 https://drive.google.com/file/d/1QeN4fBAzuKsbfZxQZDu4dAi8XD_QiTpY/view?usp=sharing
-
-#### Jenkins-Day2: 
-https://drive.google.com/file/d/1_Z1ZCN7bhQifT9UJlill7LJeWIfGCUBf/view?usp=sharing
-
-#### Jenkins-Day3:
-https://drive.google.com/file/d/1WKu-GHdlyXapoTTvPJsMg4WPXc3rmhhb/view?usp=sharing
-
-#### Jenkins-Day4: 
-https://drive.google.com/file/d/1lCjiK6TSC2aYK7EH-A68nSUOtDua8cxX/view?usp=sharing
-
-#### Jenkins-Day5: 
-https://drive.google.com/file/d/1xMB3l7JYY-ZOsGIrsyMpz9Ijofzz5dpa/view?usp=sharing
-
-#### Jenkins-Day6: 
-https://drive.google.com/file/d/1_0cvHruTLogNmpWu_fnExBJKgY3OPFwX/view?usp=sharing
 
 #### DevOps-CI-Telugu-Day1:
 https://drive.google.com/file/d/1u8R2vjkiU234usIGe3s10XP0q5jtd-M8/view?usp=sharing
