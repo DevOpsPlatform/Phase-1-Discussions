@@ -114,7 +114,7 @@ https://drive.google.com/file/d/1QqGtqj05XmriwepBylXXNs3W4MTKXgua/view?usp=shari
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
 
 
-# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-7036821818 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
+# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-9032440040 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
 
 ##### Pay between 500 to 2000, we will consider this as the quality/rating of my content.
 
