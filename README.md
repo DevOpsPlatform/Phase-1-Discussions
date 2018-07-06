@@ -133,6 +133,6 @@ https://docs.google.com/spreadsheets/d/1PsAFUm1-oY48n-KbCAPfUa-f9n2s6P49LLmAOCjp
 ![image](https://user-images.githubusercontent.com/24622526/42372522-080bc5c2-8130-11e8-968a-9ee89030ec55.png)
 
 
-#### FB Group: https://www.facebook.com/groups/1814248882217534/
+#### Join FB Group: https://www.facebook.com/groups/1814248882217534/
 
 
