@@ -85,6 +85,17 @@ https://drive.google.com/file/d/1motNXXzUzf2S3LaxdEQ6r--7vv4MwIdv/view?usp=shari
 #### 2018-07-04-GitHub-Day3:(Branching Strategy)
 https://drive.google.com/file/d/1QqGtqj05XmriwepBylXXNs3W4MTKXgua/view?usp=sharing
 
+#### Phase-1.1:
+https://drive.google.com/file/d/14bt1Xt2sMbM4o4c3ODLzyrHP2t4pI3No/view?usp=sharing
+
+#### Phase1.2-v1:
+https://drive.google.com/file/d/1lyIWqIJXxomkIDX3ef2QxFoKQjBBRYGH/view?usp=sharing
+
+#### Phase1.2-v2:
+https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
+
+#### Phase1.3:
+https://drive.google.com/file/d/1rFUeIBIaIJyVzuVWmOtGPu0hKy0bfOqc/view?usp=sharing
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
 
