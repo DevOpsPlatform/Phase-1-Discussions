@@ -97,14 +97,7 @@ https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=shari
 #### Phase1.3:
 https://drive.google.com/file/d/1rFUeIBIaIJyVzuVWmOtGPu0hKy0bfOqc/view?usp=sharing
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Unemployed Job Seekers, please don't pay`
-
-
-# If you like my videos, Payment Method: PayTm/WhatsApp/Tez: +91-9032440040 (This will encourage us to prepare & share more videos as we can't able to conduct live sessions regularly)
-
-##### Pay between 500 to 2000, we will consider this as the quality/rating of my content.
-
-### We will share the videos for all the phases, please go thru the below link to know the complete plan.
+### Please go thru the below link to know the complete plan Phases by phase DevOps setup.
 
 https://docs.google.com/spreadsheets/d/1PsAFUm1-oY48n-KbCAPfUa-f9n2s6P49LLmAOCjpn-c/edit?usp=sharing
 
