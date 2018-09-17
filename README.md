@@ -6,13 +6,8 @@ Sample pipeline: (The below image is just a conceptual CI/CD process to make und
 
 ![image](https://user-images.githubusercontent.com/24622526/42048000-86bfc740-7b1f-11e8-9086-95fd5748b3fb.png)
 
-#### Demos:
-
-https://drive.google.com/file/d/1S3VDRAqaJf37lN0-7nh6r9ETo8W57kpn/view?usp=sharing
-https://drive.google.com/file/d/1oeYgW-RtmAp5rpnnfDcRdSToLj9_qLhQ/view?usp=sharing
-https://drive.google.com/file/d/1TfoyhigS-0C8Uzyds_g4KdquUomJZ0Xd/view?usp=sharing
-https://drive.google.com/file/d/1KsBuUPrZrAN6_R0aNg7FxegL--1ZgDkD/view?usp=sharing
-https://drive.google.com/file/d/1Ayxq0HZ7_glB2AsmiBEIjMHUWvgfe2NG/view?usp=sharing
+#### Demo:
+https://drive.google.com/file/d/1-2Byd3cfPzqgfWn4Yhue3O0pkcNQoZtI/view?usp=sharing
 
 #### Phase-1.1:
 
